@@ -1,12 +1,12 @@
 ### Hola 👋
 
-This is Prabhakar Sivanesan, an experienced Researcher and Developer in the field of Computer Vision and Deep Learning technologies. Love to brainstorm, ideate and develop smart solutions for real world problems.
+This is Prabhakar Sivanesan, an experienced Researcher and Developer in the field of Computer Vision and Deep Learning. Love to brainstorm, ideate and develop smart solutions for real world problems.
 
 ![](https://komarev.com/ghpvc/?username=prabhakar-sivanesan&style=flat-square)
 
 ### Profile Summary
 
-![Prabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhakar-sivanesan&show_icons=true&theme=omni&include_all_commits=true&custom_title=My Github Stats)
+![Prabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhakar-sivanesan&show_icons=true&theme=omni&include_all_commits=true&custom_title="My Github Stats")
 
 <!--
 **prabhakar-sivanesan/prabhakar-sivanesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

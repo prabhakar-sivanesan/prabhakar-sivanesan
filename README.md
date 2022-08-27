@@ -13,6 +13,8 @@ This is Prabhakar Sivanesan, an experienced Researcher and Developer in the fiel
 
 https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white
 
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white
+
 
 <!--
 **prabhakar-sivanesan/prabhakar-sivanesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

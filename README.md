@@ -8,6 +8,12 @@ This is Prabhakar Sivanesan, an experienced Researcher and Developer in the fiel
 
 ![Prabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhakar-sivanesan&show_icons=true&theme=omni&include_all_commits=true&custom_title=My%20Github%20Stats)
 
+
+### Technology Stack
+
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white
+
+
 <!--
 **prabhakar-sivanesan/prabhakar-sivanesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
